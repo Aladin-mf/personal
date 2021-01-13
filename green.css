@@ -1,0 +1,26 @@
+	:root {
+ --maincolor:#606B56;
+	--seccolor:#515a48;
+
+	--bordercolor:#161914;
+
+	--maintext:rgb(241, 229, 229);
+	--sectext:#eeeeee;
+
+	--themedotborder:#FFF;
+
+	--prebg:rgb(81, 90, 72, 0.8);
+	--preshadow:#2a2f25;
+
+
+	--btncolor:#669966;
+}
+p{
+    color: #fff;
+}
+li{
+    color: blanchedalmond;
+}
+label{
+    color: rgb(228, 191, 142);
+}

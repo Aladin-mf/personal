@@ -1,0 +1,26 @@
+	:root {
+ --maincolor:#46344e;
+	--seccolor:#382a3f;
+
+	--bordercolor:#1d1520;
+
+	--maintext:rgb(255, 255, 255);
+	--sectext:#eeeeee;
+
+	--themedotborder:#FFF;
+
+	--prebg:rgb(29, 21, 32, 0.8);
+	--preshadow:#2a202f;
+
+
+	--btncolor:#8534af;
+}
+p{
+    color: #fff;
+}
+li{
+    color: blanchedalmond;
+}
+label{
+    color: burlywood;
+}
